@@ -13,4 +13,6 @@ h2 {
 
 img {
   border: 1px solid;
+  display: block;
+  margin: 30px auto;
 }
